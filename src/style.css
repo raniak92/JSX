@@ -1,0 +1,10 @@
+.title-red {
+  font-size: "35" px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: darkgoldenrod;
+}
+img {
+  width: 700px;
+  height: 400px;
+  display: inline;
+}
